@@ -1,0 +1,4 @@
+# Ignore the raw data archive and virtual environments
+california_weather_archive.zarr/
+.venv/
+__pycache__/
